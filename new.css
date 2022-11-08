@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+p{
+    font-size: 50px;
+}
+h1{
+    color: rgb(6, 255, 85);
+}
+div{
+    position: absolute;
+    top: 55%;
+    left: 43%;
+}
